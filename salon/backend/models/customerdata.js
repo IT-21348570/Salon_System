@@ -6,6 +6,7 @@ const salonSchema  = new Schema({
         type : String,
         required : true
     },
+    
     CustomerName:{
         type : String,
         required : true
